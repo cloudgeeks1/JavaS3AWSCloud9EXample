@@ -6,6 +6,6 @@ public class CommonConstants {
 
 	public static String ACCESS_SEC_KEY = "ACCESS_SEC_KEY";
 
-	public static String BUCKET_NAME = "cloudgeeks1";
+	public static String BUCKET_NAME = "bucket name";
 
 }
